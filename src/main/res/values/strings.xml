@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="name">Donut Quiz</string>
+    <string name="question1">Donut is </string>
+    <string name="answer1a">a fried dough confectionery</string>
+    <string name="answer1b">typically baked</string>
+    <string name="answer1c">a row dessert</string>
+
+    <string name="question2">Donuts contain of </string>
+    <string name="answer2a">flour, dough, sugar, oil, eggs, milk</string>
+    <string name="answer2b">eggs, sugar, milk</string>
+    <string name="answer2c">nuts, sugar, wet oatmeal</string>
+
+    <string name="question3">How I recognize a donut?</string>
+    <string name="answer3a">looks like a pudding</string>
+    <string name="answer3b">is square</string>
+    <string name="answer3c">is ring-shaped</string>
+
+
+    <string name="question4">Where can you purchase donuts especially in Germany?</string>
+    <string name="answer4a">Rischart</string>
+    <string name="answer4b">Dunkin Donuts</string>
+    <string name="answer4c">Wimmer</string>
+    <string name="question5">Where donuts come from?</string>
+
+    <string name="question6">Who loves donuts?</string>
+    <string name="answer6a">the healthy Junkie</string>
+    <string name="answer6b">Me</string>
+    <string name="answer6c">Homer Simpson</string>
+
+    <string name="donut">Suprise me</string>
+
+
+</resources>
